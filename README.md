@@ -36,3 +36,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 5. ant design CRA tutorial https://ant.design/docs/react/use-with-create-react-app-cn
 6. To-do-list  application 《深入浅出React》
 7. other libraries : material-ui https://material-ui.com/zh/  etc.
+
+## React Component
+
+1. React Slick https://react-slick.neostack.com/docs/example/center-mode  https://ant.design/components/card-cn/#
+2. React - router https://reactrouter.com/web/example/basic
